@@ -1,0 +1,21 @@
+body
+{
+  background-image: url("Achtergrond.jpg");
+}
+.menu {
+  display:flex;
+  list-style: none;
+}
+
+.menu li
+{
+  margin: 16px;
+}
+.menu {
+    list-style-position:inside;
+    border: 1px solid black;
+    background-color: red;
+}
+.Ik{
+  font-weight: 900;
+}
